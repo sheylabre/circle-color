@@ -8,7 +8,7 @@ body{
     height: 180px;
     border-radius: 100%;
     margin: 7%;
-    float: left;
+    display: inline-block;
 }
 #cr1{
 	margin-left: 15%;
