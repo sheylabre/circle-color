@@ -1,15 +1,17 @@
-.huevo {
-    width: 126px;
+.circle {
+    width: 180px;
     height: 180px;
     background-color:#ff6f91;
-    -moz-border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
-    -webkit-border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
-    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
-    display: inline-block;
+    border-radius: 100%;
+    float: left;
+    
 }
-#red{
+#cr1{
 	background-color: #d77878;
+	
 }
-#blue{
+#cr2{
 	background-color: #de9c9c;
+	
+
 }
